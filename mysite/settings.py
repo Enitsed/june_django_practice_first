@@ -25,7 +25,7 @@ SECRET_KEY = '07!hkmk1wr8ne!92ba(g5kdp=fy_v!eq=)o7nruy$f@19jr0r6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['enitsed.pythonanywhere.com/admin/blog/post/']
+ALLOWED_HOSTS = ['enitsed.pythonanywhere.com']
 
 
 # Application definition
